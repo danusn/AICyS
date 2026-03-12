@@ -360,7 +360,7 @@ const OverviewSection = () => (
         </div>
       </div>
       <img
-        src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80"
+        src="resenselab_logo.jpeg"
         alt="Women in cybersecurity"
         style={{ width: 200, height: 160, objectFit: "cover", borderRadius: 14, border: "3px solid rgba(255,255,255,0.3)" }}
         onError={e => { e.target.style.display = "none"; }}
